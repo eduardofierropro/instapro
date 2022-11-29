@@ -20,7 +20,7 @@ Para la instalación de esta extensión simplemente en Google Chrome:
 Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 
 
-## Tecnologías usadas
+## Tecnologías usadas 🗃️
 
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
@@ -33,7 +33,7 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 >
 > No lo uses en tu propio portfolio sino como referencia o práctica
 
-## 📐 Vídeos y repositorios de otras explicaciones
+## Vídeos y repositorios de otras explicaciones 📐
 
 | Nombre | Youtube | Github | Github Pages |
 |--|--|--|--|
@@ -43,7 +43,7 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 
 
 
-## 👨🏻‍🏫 Eduardo Fierro Pro
+## Eduardo Fierro Pro 👨🏻‍🏫
  
 ¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
@@ -58,7 +58,7 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 [![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
 
-## 📄 Licencia 
+## Licencia 📄
 
 MIT Public License v3.0
 No puede usarse comencialmente
