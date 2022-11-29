@@ -43,7 +43,7 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 
 
 
-## Eduardo Fierro Pro
+## 👨🏻‍🏫 Eduardo Fierro Pro
  
 ¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
