@@ -61,5 +61,5 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
 
