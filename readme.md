@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/eduardofierropro/pietmondrian/blob/main/assets/home1.jpg)
+![Imagen del proyecto](https://github.com/eduardofierropro/instapro/blob/main/assets/home1.webp)
 
 # Insta.pro
 
